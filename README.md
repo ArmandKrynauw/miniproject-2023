@@ -38,6 +38,10 @@ See files:
 
 and find and replace "<REPLACE_ME>"
 
+```sh
+firebase set development
+```
+
 5. Run the stack:
 
 Run these commands in separate terminals:
